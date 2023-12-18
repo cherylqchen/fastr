@@ -23,3 +23,8 @@ at what speed they were read
 HackCamp 2023 brought together myself and two developer/designers who are great friends and
 stellar programmers. Please learn more about my teammates, Steph Feng and Stuti Sharma at their
 respective GitHubs, @steph-feng and @stutivsharma.
+
+## Learn More
+
+For more information about this project, please see our winning Devpost entry for the HackCamp
+2023 Project Gallery at https://devpost.com/software/fastr-6w21cr.
