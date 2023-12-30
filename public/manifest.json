@@ -1,0 +1,16 @@
+{
+  "name": "fastr",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "logo.png"
+  },
+  "content_scripts": [
+    {
+      "js": [ "content.js" ],
+      "matches": [ "<all_urls>" ]
+    }
+  ],
+  "permissions": [ "activeTab", "scripting" ]
+}
